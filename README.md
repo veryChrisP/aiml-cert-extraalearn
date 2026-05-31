@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/veryChrisP/aiml-cert-med-asst](https://github.com/veryChrisP/aiml-cert-extraalearn)/blob/main/CPeralta_Model_Deployment_Project_7_%28Full_Code%29.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/veryChrisP/aiml-cert-extraalearn/blob/main/CPeralta_Model_Deployment_Project_7_%28Full_Code%29.ipynb)
 
 The EdTech industry has been surging in the past decade immensely, and according to a forecast, the Online Education market would be worth $286.62bn by 2023 with a compound annual growth rate (CAGR) of 10.26% from 2018 to 2023. The modern era of online education has enforced a lot in its growth and expansion beyond any limit. Due to having many dominant features like ease of information sharing, personalized learning experience, transparency of assessment, etc, it is now preferable to traditional education.
 
